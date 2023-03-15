@@ -5,9 +5,9 @@ import slider from './slider';
 function App() {
   return (
     <div className ="container">
-    <div className='main-image'>
-      <div className='sidebar'></div>
-  
+    <div className='main-image'>Image</div>
+      <div className='sidebar'>
+    sidebar
     </div>
     <Slider />
     </div>
