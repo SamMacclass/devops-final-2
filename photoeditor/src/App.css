@@ -20,7 +20,11 @@ body {
 
 .main-image{
   grid-area: image;
-  background: red;
+  background-image: url(https://unsplash.com/photos/_ReQ6GSqSaM);
+  width: 100%;
+  background-position:  top center;
+  background-size: contain;
+  background-repeat: no-repeat;
 }
 
 .sidebar{
